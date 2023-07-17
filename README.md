@@ -1,6 +1,7 @@
 
+ 👋 Hi, I’m @apserika
 
-I have solid knowledge and practical experience in JavaScript, HTML and CSS. As a programmer, I master these three essential technologies for web development. Here is a summary of my knowledge and experiences in each of them:
+ I have solid knowledge and practical experience in JavaScript, HTML and CSS. As a programmer, I master these three essential technologies for web development. Here is a summary of my knowledge and experiences in each of them:
 
 JavaScript:
 
@@ -23,13 +24,5 @@ I am familiar with responsive layout and adaptive design techniques, allowing to
 I have knowledge in CSS preprocessors, such as Sass and Less, which help me to write more modular and reusable CSS code.
 Overall, my experience in JavaScript, HTML and CSS allows me to create dynamic, interactive and aesthetically pleasing websites. I am always up to date with the best practices and market trends, constantly seeking to improve my skills in these areas.
 
-Young in the programming area, I leave here my social media profiles and repository so you can check my projects and skills.- 👋 Hi, I’m @apserika
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Young in the programming area, I leave here my social media profiles and repository so you can check my projects and skills.
 
-<!---
-apserika/apserika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
