@@ -1,5 +1,5 @@
 
- 👋 Hi, I’m @apserika
+ 👋 
 
 Olá! Meu nome é Erika, sou uma desenvolvedora entusiasmada com 8 meses de experiência na área de programação. Minha jornada começou com um foco especial em linguagens como Java e Python, onde pude desenvolver pequenas aplicações do cotidiano, aprimorando assim minhas habilidades técnicas e criativas.
 
