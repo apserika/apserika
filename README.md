@@ -11,7 +11,7 @@
 
 ## 🚀 Projetos em Destaque  
 - [Click Desk](https://github.com/seu-usuario/click-desk) — Sistema de chamados com IA, disponível para web, desktop e mobile.  
-- *(adicione outros projetos que quiser mostrar)*  
+
 
 ---
 
